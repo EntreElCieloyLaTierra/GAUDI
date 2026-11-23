@@ -1,4 +1,4 @@
-GAUDIN · Página web (versión 24)
+GAUDIN · Página web (versión 27)
 ================================
 Abrir index.html en el navegador, con la carpeta "media" al lado (video e imágenes).
 Para publicarla (GitHub Pages, Netlify o servidor de la universidad) se sube todo el contenido de esta carpeta junta.
